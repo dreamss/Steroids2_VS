@@ -1,6 +1,6 @@
 The template export wizard wont work, errors on index...
 
-** IMPORTANT: Make sure you git-checkout to a folder with 6 characters or less in the name, in the root of the HDD. otherwise you get path to long issues! IE: C:\proj1 **
+**IMPORTANT: Make sure you git-checkout to a folder with 6 characters or less in the name, in the root of the HDD. otherwise you get path to long issues! IE: C:\proj1**
 
 
 * Instructions:
