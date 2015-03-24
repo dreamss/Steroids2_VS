@@ -11,3 +11,15 @@ open config/app.coffee bower.json package.json from solution explorer and edit t
 View->other windows->Task Runner explorer
 right click on "shell_steroids_login"-> Run
 right click on "shell_steroids_deploy_allowConfigCreation"-> Run
+
+I suggest you also do this: (Look at Task_Runner_Explorer_Bindings.png)
+
+Readd shell_steroids_deploy to "After build" in Task Runner Explorer Bindings
+Readd steroids-make-fresh to "Clean" in Task Runner Explorer Bindings
+Readd shell_steroids_update and under it add shell_steroids_connect_livereload to "Project Open" in Task Runner Explorer Bindings
+
+
+Docs:
+https://github.com/AppGyver/steroids
+http://docs.appgyver.com/tooling/cli/
+http://docs.appgyver.com/tooling/build-service/build-settings/deploying-to-cloud/
