@@ -2178,6 +2178,7 @@
     <Compile Include="node_modules\grunt-steroids\node_modules\xml2js\node_modules\xmlbuilder\node_modules\lodash\utility\range.js" />
     <Compile Include="node_modules\grunt-steroids\node_modules\xml2js\node_modules\xmlbuilder\node_modules\lodash\utility\times.js" />
     <Compile Include="node_modules\grunt-steroids\node_modules\xml2js\node_modules\xmlbuilder\node_modules\lodash\utility\uniqueId.js" />
+    <Content Include="Task_Runner_Explorer_Bindings.png" />
     <Content Include="xx.pubxml.user" />
     <None Include="xx.pubxml" />
   </ItemGroup>
